@@ -1,0 +1,28 @@
+h1{
+    color: mediumvioletred ;
+    text-transform: capitalize;
+    text-align: center;
+    font-size: 2rem;
+}
+
+body{
+    background-color: lavenderblush;
+}
+
+.fashion{
+    width:100%;
+    border: 10px solid palevioletred;
+}
+
+.Poster{
+    width:50%;
+    margin-left:25%;
+    margin-top:100px:
+    text-align:center;
+    color: black;
+    font-family: "Libre Baskerville", serif;
+}
+
+p{
+    text-align:center;
+}
